@@ -36,21 +36,3 @@ Clear the board and don't pull in other colors, that's it!
 
 # Information for creating these games
 ---
-
-> Color Hole                                               
-> https://www.youtube.com/watch?v=aCiz0_w30yo                                               
-> https://www.youtube.com/watch?v=5qGE2PL9wwU                                               
-
-> Roller Splat                                               
-> https://www.youtube.com/watch?v=8238fiDIp2o                                               
-> https://www.youtube.com/watch?v=g1C7pZYpQdQ                                               
-> https://www.youtube.com/watch?v=UC26Adakklo                                               
-> https://www.youtube.com/watch?v=LKrCtNUqZRk&list=PLhvjMi_0yrQzrccICN5dpu5IDh4mVhEqj                                               
-
-> Chain Cube 2048                                                
-> https://www.youtube.com/watch?v=GDOCq9mVB-8                                               
-> https://www.youtube.com/watch?v=BYuiy8x2sTE                                               
-
----
-
-That's all =)
