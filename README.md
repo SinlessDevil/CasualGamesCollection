@@ -33,6 +33,3 @@ Very easy to play, too hard to master
 Clear the board and don't pull in other colors, that's it!
 
 ![Image alt](https://github.com/SinlessDevil/Casual_Games_Collection/blob/main/Icon_3D_Casual_Games_Collection-3.png)
-
-# Information for creating these games
----
